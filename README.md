@@ -2,12 +2,12 @@
 This repository consists of all the files I created during my beginner to advanced data science journey. This is a customised learning path.  
 These files are my personal notes through my learning.  
 
-# Dipping Tour Toes in
-## Learning Python
-## Mathematics for Data Science
-## Exploratory Data Science
-## Excelling with Excel
-## Introduction to Machine Learning
+## Dipping Tour Toes in
+1. Learning Python
+2. Mathematics for Data Science
+3. Exploratory Data Science
+4. Excelling with Excel
+5. Introduction to Machine Learning
 
 # Stepping Into Deep Waters
 ## Mathematics for Machine Learning
