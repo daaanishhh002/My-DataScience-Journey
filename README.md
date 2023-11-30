@@ -9,28 +9,28 @@ These files are my personal notes through my learning.
 4. Excelling with Excel
 5. Introduction to Machine Learning
 
-# Stepping Into Deep Waters
-## Mathematics for Machine Learning
-## Evaluation Metrics and Model Tuning
-## Data Cleaning
-## Feature Engineering
-## Machine Learning Algorithms
+## Stepping Into Deep Waters
+1. Mathematics for Machine Learning
+2. Evaluation Metrics and Model Tuning
+3. Data Cleaning
+4. Feature Engineering
+5. Machine Learning Algorithms
 
-# Navigating The Currents
-## Databases with SQL
-## Data Collection
-## Dashboards with Power BI
-## Version Control with Git and GitHUb
-## Pipelining and Deploying Models
+## Navigating The Currents
+1. Databases with SQL
+2. Data Collection
+3. Dashboards with Power BI
+4. Version Control with Git and GitHUb
+5. Pipelining and Deploying Models
 
-# Diving Into The Depths
-## Handling Big Data
-## Containerization with Dockers
-## Cloud Computing
-## System Design
+## Diving Into The Depths
+1. Handling Big Data
+2. Containerization with Dockers
+3. Cloud Computing
+4. System Design
 
-# Sailing Through Unknown Seas
-## Association Rule Learning and Anomaly Detection
-## Introduction to Deep Learning
-## Recommendation Systems
-## Natural Language Processing
+## Sailing Through Unknown Seas
+1. Association Rule Learning and Anomaly Detection
+2. Introduction to Deep Learning
+3. Recommendation Systems
+4. Natural Language Processing
