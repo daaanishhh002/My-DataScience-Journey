@@ -5,14 +5,14 @@ These files are my personal notes through my learning.
 ## Dipping Tour Toes in
 1. Learning Python
 2. Mathematics for Data Science
-3. Exploratory Data Science
+3. Introduction to Data Science  and Exploratory Data Science
 4. Excelling with Excel
 5. Introduction to Machine Learning
 
 ## Stepping Into Deep Waters
 1. Mathematics for Machine Learning
 2. Evaluation Metrics and Model Tuning
-3. Data Cleaning
+3. Data Preprocessing
 4. Feature Engineering
 5. Machine Learning Algorithms
 
@@ -27,8 +27,8 @@ These files are my personal notes through my learning.
 1. Handling Big Data
 2. Containerization with Dockers
 3. Cloud Computing
-4. System Design
-5. Data Structures and Algorithms
+4. Data Structures and Algorithms
+5. System Design
 
 ## Sailing Through Unknown Seas
 1. Association Rule Learning and Anomaly Detection
