@@ -28,6 +28,7 @@ These files are my personal notes through my learning.
 2. Containerization with Dockers
 3. Cloud Computing
 4. System Design
+5. Data Structures and Algorithms
 
 ## Sailing Through Unknown Seas
 1. Association Rule Learning and Anomaly Detection
