@@ -1,18 +1,18 @@
 # Dipping Your Toes In
 
-### Learning Python
+## Learning Python
 1. Introductory Python
 3. Intermediate Python
 5. Exploring Different Python Libraries
 7. Advanced Python
 
-### Mathematics for Data Science
+## Mathematics for Data Science
 1. Descriptive Statistics
 2. Probability
 3. Combinatorics
 4. Inferential Statistics
 
-### Introduction to Data Science and Exploratory Data Science
+## Introduction to Data Science and Exploratory Data Science
 1. Data Analysis Process
 2. Understanding and Assesing Data
 3. Exploratory Data Analysis
@@ -22,9 +22,9 @@
     4. Football Dataset
     5. Olympics Dataset
 
-### Data Preprocessing
+## Data Preprocessing
 1. Handling Null Values
 2. Handling Null Date/Time Values
 3. Handling Outliers
 
-### Introduction to Machine Learning
+## Introduction to Machine Learning
