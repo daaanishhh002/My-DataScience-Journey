@@ -38,9 +38,18 @@
 4. Inferential Statistics
 
 ### Introduction to Data Science and Exploratory Data Science
+1. Data Analysis Process
+2. Understanding and Assesing Data
+3. Exploratory Data Analysis
+    1. Titanic Dataset
+    2. House Price Dataset
+    3. Diabetes Dataset
+    4. Football Dataset
+    5. Olympics Dataset
 
-
-### Excelling in Excel
-
+### Data Preprocessing
+1. Handling Null Values
+2. Handling Null Date/Time Values
+3. Handling Outliers
 
 ### Introduction to Machine Learning
