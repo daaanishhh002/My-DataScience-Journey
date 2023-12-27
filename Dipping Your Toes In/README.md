@@ -16,6 +16,11 @@
 1. The Data Analysis Process
 2. Understanding and Assesing Data
 3. Exploratory Data Analysis
+    1. Titanic Dataset
+    2. House Price Dataset
+    3. Diabetes Dataset
+    4. Football Dataset
+    5. Olympics Dataset
 
 ## Data Preprocessing
 1. Handling Null Values
