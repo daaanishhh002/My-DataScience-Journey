@@ -24,8 +24,7 @@
 
 ## Data Preprocessing
 1. Handling Null Values
-2. Handling Null Date/Time Values
-3. Handling Outliers
+2. Handling Outliers
 
 ## Introduction to Machine Learning
 1. Types and Challenges of Machine Learning
